@@ -3,8 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-.body{
-
+body{
+    
 }
 .container{
     max-width: 1140px;
@@ -13,5 +13,4 @@
     margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
-
 }
