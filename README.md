@@ -1,0 +1,2 @@
+# dars
+bu yerda
